@@ -1,5 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
+<a title="SAS Institute, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg"><img width="512" alt="SAS logo horiz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/512px-SAS_logo_horiz.svg.png?20090216100742"></a>
 # 📊 README.md para Portfólio SAS no GitHub
 
 Criei um **README.md completo e profissional** para o seu portfólio no GitHub! O arquivo inclui:
