@@ -1,4 +1,4 @@
-<a title="SAS Institute, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg"><img width="512" alt="SAS logo" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-sas-blue.png"></a>
+<a title="SAS Institute, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg"><img width="128" alt="SAS logo" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-sas-blue.png"></a>
 # 📊 README.md para Portfólio SAS no GitHub
 
 Criei um **README.md completo e profissional** para o seu portfólio no GitHub! O arquivo inclui:
