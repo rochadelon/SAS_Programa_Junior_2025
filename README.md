@@ -1,5 +1,5 @@
 <a title="SAS Institute, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg"><img width="128" alt="SAS logo" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-sas-blue.png"></a>
-# Trabalho Final SAS Programa Júnior 2025
+# SAS Programa Júnior 2025
 ## 📋 Visão Geral do Trabalho
 
 Este trabalho representa a **culminação** de uma jornada intensiva de aprendizado no **SAS Programa Júnior**, onde desenvolvi competências essenciais em análise de dados utilizando uma das plataformas mais robustas do mercado. O projeto final consistiu na criação de **10 programas SAS** que exploram dados educacionais e demográficos brasileiros, demonstrando domínio desde técnicas básicas de importação até análises estatísticas avançadas e visualizações profissionais.
